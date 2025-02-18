@@ -12,4 +12,4 @@ A simple and interactive "To-Do List" application built using HTML, CSS, and Jav
 📌 How to Use
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/Aakanksh-Mohan/To-Do-List.git
